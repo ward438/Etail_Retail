@@ -13,7 +13,7 @@ from the terminal: <br>
 2) npm start <- starts server
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-## Use routes in Insomnia or Postman for get, put, post, delete.
+## Routes 
 
 Products <br>
 http://localhost:3001/api/products <br>
