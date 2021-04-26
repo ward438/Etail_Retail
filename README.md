@@ -5,12 +5,12 @@ Etail-Retail is a REST MYSQL Database. <br>
 The user can use Postman or Insomnia to view, edit, or delete items in the database.  <br>
 
 ## To install and utilize:
-install from terminal: npm i  <br>
+install required dependencies from terminal: npm i  <br>
 Enter database information in .env file and seeds directory to ensure connection with mysql database. <br>
 
 from the terminal: <br>
-1) node seeds <-seeds database <br>
-2) npm start <-starts server
+1) node seeds <- seeds database <br>
+2) npm start <- starts server
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## Use routes in Insomnia or Postman for get, put, post, delete.
