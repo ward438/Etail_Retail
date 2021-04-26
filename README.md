@@ -12,7 +12,8 @@ from the terminal:
 1) node seeds
 2) npm start
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Use routes in Insomnia or Postman for get, put, post, delete.
+
+## Use routes in Insomnia or Postman for get, put, post, delete.
 
 Products
 http://localhost:3001/api/products
