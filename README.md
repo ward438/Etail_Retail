@@ -15,11 +15,11 @@ from the terminal:
 
 ## Use routes in Insomnia or Postman for get, put, post, delete.
 
-Products
+Products <br>
 http://localhost:3001/api/products <br>
 http://localhost:3001/api/  <- route for individual; <br>
 
-Tags
+Tags<br>
 http://localhost:3001/api/tags; <br>
 http://localhost:3001/api/  <- route for individual tags; <br>
 
