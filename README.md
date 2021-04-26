@@ -6,10 +6,11 @@ The user can use Postman or Insomnia to view, edit, or delete items in the datab
 
 ## To install and utilize:
 install from terminal: npm i 
+Enter database information in .env file and seeds directory to ensure connection with mysql database.
 
 from the terminal:
-1) node seeds
-2) npm start
+1) node seeds <-seeds database
+2) npm start <-starts server
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## Use routes in Insomnia or Postman for get, put, post, delete.
